@@ -1,0 +1,7 @@
+# Local backups and reports
+/data/
+/logs/
+
+# Personal device configuration
+/config/devices.json
+/config/devices.json.tmp
